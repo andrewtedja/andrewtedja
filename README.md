@@ -29,6 +29,7 @@ Informatics Engineering student at **Institut Teknologi Bandung (ITB)**, focused
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewtedja&show_icons=true&theme=transparent&hide_border=true" alt="Andrew's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewtedja&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600" />
+
   <img src="https://streak-stats.demolab.com/?user=andrewtedja&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
