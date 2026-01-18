@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Andrew%20Tedjapratama%20🧑‍💻&fontSize=40&fontColor=ffffff&fontAlign=50" />
+# Andrew Tedjapratama 🧑‍💻
 
 **_Informatics @ ITB | Software Engineering & AI_**
 
