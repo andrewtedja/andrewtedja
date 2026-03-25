@@ -2,7 +2,7 @@
 
 # Hey, I'm Andrew Tedjapratama 🧑‍💻
 
-**_Informatics @ ITB**
+**_Informatics @ ITB_**
 
 <!-- [![Views](https://komarev.com/ghpvc/?username=andrewtedja&label=Profile%20Views&color=0A66C2&style=flat-square)]() -->
 
