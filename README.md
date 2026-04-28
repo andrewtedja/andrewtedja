@@ -12,7 +12,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/andrewtedj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:me@andrewtedja.com)
 
-🧑‍💻 Informatics Engineering student at **Institut Teknologi Bandung (ITB)**, focused on building products that are useful and robust. I'm highly passionate about Fullstack engineering, AI/ML Engineering, and Infrastructure.
+🧑‍💻 Informatics Engineering student at **Institut Teknologi Bandung (ITB)**, focused on building products that are useful and robust. I'm highly passionate about Fullstack engineering, AI/ML Engineering, and Cloud Infrastructure.
 
 </div>
 
