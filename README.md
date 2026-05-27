@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:0077d8&height=210&section=header&text=Andrew%20Tedjapratama👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20%40%20ITB%20%7C%20Software%20Engineer%20|%20AI/ML&descSize=20&descAlignY=58&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:7f1d1d&height=210&section=header&text=Andrew%20Tedjapratama&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20%40%20ITB%20%7C%20Software%20Engineer%20%7C%20AI/ML&descSize=20&descAlignY=58&animation=fadeIn" />
 
 <!-- [![Views](https://komarev.com/ghpvc/?username=andrewtedja&label=Profile%20Views&color=0A66C2&style=flat-square)]() -->
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andrewtedja.com)
