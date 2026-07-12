@@ -34,31 +34,31 @@
   <tr>
     <td>Software Engineer (Part-time)</td>
     <td><a href="https://www.techfusion.id/">TechFusion.id</a></td>
-    <td>Sep 2023 – Feb 2024</td>
+    <td>Jul 2025 – Apr 2026</td>
   </tr>
   <tr>
-    <td>Associate Software Engineer</td>
+    <td>Software Engineer (Contract)</td>
     <td><a href="https://inkubatorit.id/">Inkubator IT</a></td>
-    <td>Aug 2022 – Sep 2023</td>
+    <td>Jan 2025 – Jun 2025</td>
   </tr>
   <tr>
     <td>Associate Software Engineer</td>
     <td><a href="https://magnapartners.org/">Magna Partners</a></td>
-    <td>May 2022 – Aug 2022</td>
+    <td>May 2025 – Oct 2025</td>
   </tr>
 </table>
 
----
+<!-----
 
- ### 📊 GitHub Activity
+<!-- ### 📊 GitHub Activity
 
-<p align="center">
+<!--<p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-one-omega-33.vercel.app/api?username=andrewtedja" />
-</a> 
-<a href="https://github.com/anuraghazra/convoychat">
+<!--</a> 
+<!--<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-one-omega-33.vercel.app/api/top-langs?username=andrewtedja&layout=compact&langs_count=8&card_width=320" />
-</a>
+<!--</a>
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-iota-10.vercel.app?user=andrewtedja&theme=whatsapp-dark2&border_radius=16" alt="GitHub Streak" /></a> -->
 
