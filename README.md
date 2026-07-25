@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/andrewtedj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@andrewtedja.com)
 
-🧑‍💻 Hi! I'm an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**, focused on building products that are useful and robust. I'm highly passionate about **Backend engineering, Fintech, AI/ML Engineering, and Distributed Systems**.
+🧑‍💻 Hi! I'm an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**, focused on building products that are useful and robust. I'm highly passionate about **Fintech, AI/ML Engineering, Backend Engineering and Distributed Systems**.
 
 </div>
 
