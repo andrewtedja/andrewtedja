@@ -14,7 +14,7 @@
 
 </div>
 
-## 💼 Experience
+## Experience
 
 <table align="center">
   <tr>
