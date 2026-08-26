@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:7f1d1d&height=210&section=header&text=Andrew%20Tedjapratama&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20%40%20ITB%20%7C%20Software%20Engineer%20%7C%20AI/ML&descSize=20&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00ADD8&height=210&section=header&text=Andrew%20Tedjapratama&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20%40%20ITB%20%7C%20Engineer%20%7C%20AI/ML&descSize=20&descAlignY=58&animation=fadeIn" />
 
 <!-- [![Views](https://komarev.com/ghpvc/?username=andrewtedja&label=Profile%20Views&color=0A66C2&style=flat-square)]() -->
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andrewtedja.com)
@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/andrewtedj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@andrewtedja.com)
 
-🧑‍💻 Hi! I'm an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**, focused on building products that are useful and robust. I'm highly passionate about **Fintech, AI/ML Engineering, Backend Engineering and Distributed Systems**.
+🧑‍💻 Hi! I'm a final year student at **Institut Teknologi Bandung (ITB)**, focused on building products that are useful and robust. I'm highly passionate about **Fintech, AI/ML Engineering, Backend Engineering and Distributed Systems**.
 
 </div>
 
